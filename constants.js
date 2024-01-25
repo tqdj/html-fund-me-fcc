@@ -1,6 +1,6 @@
 //放一些环境变量
 
-export const contractAddress = "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512"
+export const contractAddress = "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512" //这是一个示例
 
 //合约的abi，可以去合约部署的后段代码文件artifacts/contracts/FundMe.sol/FundMe.json里面找到
 export const abi = [
